@@ -3,7 +3,7 @@ import java.util.Scanner;
  
 public class Adttanggal {
  
-    // Dibuat Oleh : M.Irvan Dimetrio(18360018)
+    
      
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
